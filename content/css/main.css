@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+div.main{
+    border: 1px solid black;
+    max-width: 60vw;
+    margin: 30vh auto;
+    border-radius: 20px;
+}
+div.container-fluid{
+    max-width: 30vw;
+    margin: auto;
+}
+div.input-box{
+    margin: 2rem;
+
+}
+input{
+    text-align: left;
+    width: 100px;
+}
